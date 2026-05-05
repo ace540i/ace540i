@@ -1,4 +1,4 @@
-# Azure Advisior Site with Voice AI Agent & AI Business Assessment tools.
+# Advisior Site with Voice AI Agent & AI Business Assessment tools.
 ![Alt Text](diagram-export-5-4-2026-4_12_16-PM.png)
 # Real Estate Site with SimplyRETS API and Mongo cache
 ![Alt Text](diagram-realtor.png)
