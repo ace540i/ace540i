@@ -1,10 +1,10 @@
-# H1 - Azure Advisior Site with voice AI agent.
+# Azure Advisior Site with voice AI agent.
 ![Alt Text](diagram-export-5-4-2026-4_12_16-PM.png)
-
+# Real Estate Site with SimplyRETS API and Mongo cache
 ![Alt Text](diagram-realtor.png)
-
+# College Roadmap - with Timeline and Grade Level Tasks 
 ![Alt Text](diagram-export-5-4-2026-2_31_22-PM.png)
-
+# Medical Triage APP with MCP server
 ![Alt Text](diagram.png)
 
 <!--
