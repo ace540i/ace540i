@@ -2,6 +2,7 @@
 
 ![Alt Text](diagram-export-5-4-2026-2_31_22-PM.png)
 
+![Alt Text](diagram.png)
 
 <!--
 **ace540i/ace540i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
